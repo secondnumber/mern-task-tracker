@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAA;AACA,W","sources":["webpack://client/./src/index.ts"],"sourcesContent":["const sayHello = () => console.log('hello');\nsayHello();"],"names":[],"sourceRoot":""}
