@@ -1,0 +1,5 @@
+{
+  "port": 5001,
+  "jwtSecret": "mern secondnumber project",
+  "mongoUri": "mongodb+srv://secondnumber:Gthtvty000011@cluster0.e3vk6.mongodb.net/app?retryWrites=true&w=majority"
+}
